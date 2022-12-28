@@ -1,2 +1,5 @@
 # IMC-js
-Calculo de IMC - Índice de massa corporal
+
+
+### Calculo de IMC - Índice de massa corporal usando funções 
+
